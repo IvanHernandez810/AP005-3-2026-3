@@ -1,0 +1,7 @@
+Neurona 1 Sin Numpy: https://www.kaggle.com/code/ivancahermo/neurona1-sin-numpy
+Neurona 1.1 Sin Numpy: https://www.kaggle.com/code/ivancahermo/neurona1-1-sin-numpy
+Neurona 1.2 Sin Numpy: https://www.kaggle.com/code/ivancahermo/neurona1-2-sin-numpy
+
+Neurona 1 con NumPy y Matplotlib: https://www.kaggle.com/code/ivancahermo/pr-ctica-1-con-numpy-y-matplotlib-neuron1-py
+Neurona 1.1 con NumPy y Matplotlib: https://www.kaggle.com/code/ivancahermo/pr-ctica-2-con-numpy-y-matplotlib-neuron1-1-py
+Neurona 1.2 con NumPy y Matplotlib: https://www.kaggle.com/code/ivancahermo/pr-ctica-3-con-numpy-y-matplotlib-neuron1-2-py
